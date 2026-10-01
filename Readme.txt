@@ -1,6 +1,14 @@
-Thanks for downloading this template!
+Cara Menjalankan
+Install dan jalankan XAMPP.
+Aktifkan Apache dan MySQL.
+Salin folder project ke C:\xampp\htdocs.
+Buat database melalui phpMyAdmin.
+Import file database_aplikasi_spp.sql.
+Sesuaikan konfigurasi database pada file koneksi.
+Buka aplikasi melalui browser:
 
-Template Name: Squadfree
-Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+http://localhost/Aplikasispp
+
+Pengembang
+
+Alya Andina
